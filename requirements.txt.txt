@@ -1,0 +1,13 @@
+pymupdf
+numpy
+scikit-learn
+tensorflow
+tensorflow-hub
+openai
+pdf2image
+pytesseract
+requests
+fastapi
+uvicorn
+python-multipart
+nest-asyncio pyngrok
