@@ -10,4 +10,5 @@ requests
 fastapi
 uvicorn
 python-multipart
-nest-asyncio pyngrok
+nest-asyncio 
+pyngrok
